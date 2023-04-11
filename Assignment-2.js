@@ -33,3 +33,14 @@
 // console.log(FindNum(5,arr));
 
 
+// Q.3 
+
+function insertPara(txt){
+    Parent = document.getElementById("myPara");
+    myPara = document.createElement("p");
+    myParatxt = document.createTextNode(txt);
+    myPara.appendChild(myParatxt);
+    Parent.appendChild(myPara);
+}
+
+insertPara("My name is Daniyal");
