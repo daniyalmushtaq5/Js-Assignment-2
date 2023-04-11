@@ -11,4 +11,5 @@ let sum = add_num(5);
 console.log(sum(6));
 
 
-// Q.2
+// Q.2 
+
