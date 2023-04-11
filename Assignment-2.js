@@ -56,3 +56,15 @@
 
 // AddListItem("Mushtaq");
 
+// Q.5
+
+// myPara = document.getElementById('myPara');
+// myPara.style.color = "#fff";
+
+// function changeColor(color,id){
+//     element = document.getElementById(id);
+//     element.style.backgroundColor = color;
+// }
+
+// changeColor("black", "myPara");
+
